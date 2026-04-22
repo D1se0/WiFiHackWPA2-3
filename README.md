@@ -60,7 +60,7 @@ El uso no autorizado de esta herramienta para acceder a redes WiFi ajenas es:
 
 ```powershell
 # Navegar al directorio del ejecutable
-cd D:\Downloads\WifiHackMixto(WPA2-3)\WifiHackMixto\target\release
+cd WiFiHackWPA2-3\target\release
 
 # Ejecutar como administrador
 .\wifiHack.exe
