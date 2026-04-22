@@ -70,8 +70,8 @@ cd WiFiHackWPA2-3\target\release
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tuusuario/WifiHackMixto.git
-cd WifiHackMixto
+git clone https://github.com/tuusuario/WiFiHackWPA2-3.git
+cd WiFiHackWPA2-3
 
 # Compilar en modo release
 cargo build --release
